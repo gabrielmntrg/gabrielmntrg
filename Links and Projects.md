@@ -9,7 +9,7 @@
 • [Capgemini](https://capgeminischool.brazilsouth.cloudapp.azure.com/)  
 • [Android Studio](https://developer.android.com/courses/android-basics-compose/course?hl=pt-br)  
 • [Android Developer Roadmap](https://trello.com/b/fsc44tYh/android-developer-roadmap)  
-• [JetBrains Academy](https://www.jetbrains.com/pt-br/academy/)
+• [JetBrains Academy](https://www.jetbrains.com/pt-br/academy/)  
 • [edX](https://www.edx.org/)  
 • [GuidedHacking](https://guidedhacking.com/)  
 • [Game Hacking Academy](https://gamehacking.academy/)  
