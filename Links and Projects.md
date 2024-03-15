@@ -18,6 +18,8 @@
 • [YouTube - Bro Code](https://www.youtube.com/@BroCodez)  
 • [YouTube - CyberFlow](https://www.youtube.com/@CyberFlow10)  
 • [YouTube - 247CTF](https://www.youtube.com/@247CTF)  
+• [YouTube - LiveOverflow](https://www.youtube.com/@LiveOverflow)  
+• [YouTube - John Hammond](https://www.youtube.com/@_JohnHammond)  
 
 ## Projects
 • Gerador de Senhas  
