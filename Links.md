@@ -4,7 +4,6 @@
 • [freeCodeCamp](https://www.freecodecamp.org/)  
 • [W3Schools](https://www.w3schools.com/)  
 • [Brilliant](https://brilliant.org/)  
-• [NeetCode](https://neetcode.io/)  
 • [Capgemini](https://capgeminischool.brazilsouth.cloudapp.azure.com/)  
 • [Android Studio](https://developer.android.com/courses/android-basics-compose/course?hl=pt-br)  
 • [Android Developer Roadmap](https://trello.com/b/fsc44tYh/android-developer-roadmap)  
