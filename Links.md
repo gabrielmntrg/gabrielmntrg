@@ -1,20 +1,22 @@
-## Courses
+## General
 • [Udemy](https://www.udemy.com/)  
 • [Codecademy](https://www.codecademy.com/)  
 • [freeCodeCamp](https://www.freecodecamp.org/)  
 • [W3Schools](https://www.w3schools.com/)  
 • [Brilliant](https://brilliant.org/)  
-• [Capgemini](https://capgeminischool.brazilsouth.cloudapp.azure.com/)  
-• [Android Studio](https://developer.android.com/courses/android-basics-compose/course?hl=pt-br)  
-• [Android Developer Roadmap](https://trello.com/b/fsc44tYh/android-developer-roadmap)  
-• [JetBrains Academy](https://www.jetbrains.com/pt-br/academy/)  
-• [GuidedHacking](https://guidedhacking.com/)  
-• [Game Hacking Academy](https://gamehacking.academy/)  
-• [Roadmaps](https://roadmap.sh/)  
 • [YouTube - Curso em Vídeo](https://www.youtube.com/@CursoemVideo)  
 • [YouTube - CS50](https://www.youtube.com/@cs50)  
 • [YouTube - NeetCode](https://www.youtube.com/@NeetCode)  
 • [YouTube - Bro Code](https://www.youtube.com/@BroCodez)  
+
+## Hacking
+• [How to Start Hacking](https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/)  
+• [CTF for Beginners](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04)  
+• [CyberSecurity Roadmap](https://roadmap.sh/cyber-security)  
+• [GuidedHacking](https://guidedhacking.com/)  
+• [Game Hacking Academy](https://gamehacking.academy/)  
+• [CTF 101](https://ctf101.org/)  
+• [CTF Resources](https://ctfs.github.io/resources/)  
 • [YouTube - CyberFlow](https://www.youtube.com/@CyberFlow10)  
 • [YouTube - 247CTF](https://www.youtube.com/@247CTF)  
 • [YouTube - LiveOverflow](https://www.youtube.com/@LiveOverflow)  
@@ -22,7 +24,7 @@
 
 ## Favorite Links
 • [Beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)  
-• [LeetCode](https://leetcode.com/)  
 • [75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)  
+• [CTFtime](https://ctftime.org/)  
 • [ChatGPT](https://chat.openai.com/)  
 • [Gemini](https://gemini.google.com/app?hl=pt)
