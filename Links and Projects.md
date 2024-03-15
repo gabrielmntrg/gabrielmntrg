@@ -21,19 +21,6 @@
 • [YouTube - LiveOverflow](https://www.youtube.com/@LiveOverflow)  
 • [YouTube - John Hammond](https://www.youtube.com/@_JohnHammond)  
 
-## Projects
-• Gerador de Senhas  
-• Calculadora  
-• Adivinhação de Números  
-• Jogo da Forca  
-• Conversor de Unidades  
-• Caixa Eletrônico  
-• Campo Minado  
-• Poker Probability  
-• Game  
-• AES Cryptography  
-• Hack CS  
-
 ## Favorite Links
 • [Beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)  
 • [LeetCode](https://leetcode.com/)  
