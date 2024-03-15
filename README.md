@@ -4,15 +4,14 @@
 
 ### About Me:
 - Computer Science Undergraduate
-- Learning Android Development
-- N00b in Hacking
+- Learning Hacking
+- CTF Player
 
 ### Languages & Tools:  
 
-<code><img height="20" src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Java-black?logo=openjdk&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Python-black?logo=python"></code>
-<code><img height="20" src="https://img.shields.io/badge/-IntelliJ-black?logo=intellijidea"></code>
+<code><img height="20" src="https://img.shields.io/badge/-VSCode-black?logo=visual-studio-code&logoColor=blue"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git"></code>
 <code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=github"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Windows-black?logo=windows&logoColor=blue"></code>
