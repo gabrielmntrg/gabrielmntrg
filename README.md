@@ -4,8 +4,8 @@
 
 ### About Me:
 - Computer Science Undergraduate
+- Interested in Cybersecurity Engineering
 - Learning Hacking
-- CTF Player
 
 ### Languages & Tools:  
 
