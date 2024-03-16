@@ -19,8 +19,7 @@
 • [CTF Resources](https://ctfs.github.io/resources/)  
 • [YouTube - CyberFlow](https://www.youtube.com/@CyberFlow10)  
 • [YouTube - 247CTF](https://www.youtube.com/@247CTF)  
-• [YouTube - LiveOverflow](https://www.youtube.com/@LiveOverflow)  
-• [YouTube - John Hammond](https://www.youtube.com/@_JohnHammond)  
+• [YouTube - Low Level Learning](https://www.youtube.com/@LowLevelLearning)
 
 ## Favorite Links
 • [Beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)  
