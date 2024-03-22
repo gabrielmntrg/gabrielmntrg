@@ -23,6 +23,7 @@
 
 ## Favorite Links
 • [Beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)  
+• [Codeforces](https://codeforces.com/)  
 • [75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)  
 • [CTFtime](https://ctftime.org/)  
 • [ChatGPT](https://chat.openai.com/)  
