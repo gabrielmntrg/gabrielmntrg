@@ -4,6 +4,7 @@
 • [freeCodeCamp](https://www.freecodecamp.org/)  
 • [W3Schools](https://www.w3schools.com/)  
 • [Brilliant](https://brilliant.org/)  
+• [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 • [YouTube - Curso em Vídeo](https://www.youtube.com/@CursoemVideo)  
 • [YouTube - CS50](https://www.youtube.com/@cs50)  
 • [YouTube - NeetCode](https://www.youtube.com/@NeetCode)  
