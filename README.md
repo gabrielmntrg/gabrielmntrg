@@ -4,13 +4,13 @@
 
 ### About Me:
 - Computer Science Undergraduate
-- Interested in Cybersecurity Engineering
-- Learning Hacking (CTF Player)
+- Interested in Cybersecurity
+- Competitive Programmer and CTF Player
 
 ### Languages & Tools:  
 
 <code><img height="20" src="https://img.shields.io/badge/-C-black?logo=c"></code>
-<code><img height="20" src="https://img.shields.io/badge/-Java-black?logo=openjdk&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Java-black?logo=openjdk&logoColor=orange"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Python-black?logo=python"></code>
 <code><img height="20" src="https://img.shields.io/badge/-VSCode-black?logo=visual-studio-code&logoColor=blue"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git"></code>
