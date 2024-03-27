@@ -12,12 +12,11 @@
 
 ## Hacking
 • [How to Start Hacking](https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/)  
-• [CTF for Beginners](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04)  
-• [CyberSecurity Roadmap](https://roadmap.sh/cyber-security)  
+• [Hack The Box](https://www.hackthebox.com/)  
+• [CTF Learn](https://ctflearn.com/)  
+• [CTF 101](https://ctf101.org/)  
 • [GuidedHacking](https://guidedhacking.com/)  
 • [Game Hacking Academy](https://gamehacking.academy/)  
-• [CTF 101](https://ctf101.org/)  
-• [CTF Resources](https://ctfs.github.io/resources/)  
 • [YouTube - CyberFlow](https://www.youtube.com/@CyberFlow10)  
 • [YouTube - 247CTF](https://www.youtube.com/@247CTF)  
 • [YouTube - Low Level Learning](https://www.youtube.com/@LowLevelLearning)
