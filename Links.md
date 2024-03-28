@@ -12,7 +12,7 @@
 
 ## Hacking
 • [How to Start Hacking](https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/)  
-• [Hack The Box](https://www.hackthebox.com/)  
+• [CTF Tools](https://github.com/apsdehal/awesome-ctf)  
 • [CTF Learn](https://ctflearn.com/)  
 • [CTF 101](https://ctf101.org/)  
 • [GuidedHacking](https://guidedhacking.com/)  
@@ -25,5 +25,6 @@
 • [Beecrowd](https://judge.beecrowd.com/pt/login?redirect=%2Fpt)  
 • [75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)  
 • [CTFtime](https://ctftime.org/)  
+• [Hack The Box](https://www.hackthebox.com/)  
 • [ChatGPT](https://chat.openai.com/)  
 • [Gemini](https://gemini.google.com/app?hl=pt)
